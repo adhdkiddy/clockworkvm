@@ -1,0 +1,12 @@
+{
+  "name": "Clockwork",
+  "desc": "Clockwork, inside of Clockwork?",
+  "longDesc": "Clockwork VM made with iframe system. Made by GamerSimonGD (will not work if main url is blocked)"
+  "url": "clockwork-os.vercel.app/os",
+  "encodedUrl": "no",
+  "icon": "https://redstone-nw.netlify.app/assets/icon.png",
+  "author": "GamerSimonGD",
+  "version": "v1.0.0",
+  "finderTerms": ["vm","clockwork","epic"],
+  "permissions": []
+}
